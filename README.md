@@ -1,2 +1,1 @@
-# IPL-Data-Analysis-using-Python
-I have done analysis using python with the libraries of Pandas, matplotlib, seaborn
+This project performs a comprehensive analysis of IPL 2022 match data. The objective is to identify trends in team performance, toss decisions, winning margins, and overall tournament statistics through data visualization and exploratory data analysis techniques. using python data-analysis pandas numpy matplotlib seaborn plotly ipl cricket-analysis eda data-visualization
