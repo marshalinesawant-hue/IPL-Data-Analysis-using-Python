@@ -1,5 +1,5 @@
 **IPL 2022 Data Analysis**
-Project Overview
+**Project Overview**
 
 This project explores and analyzes the IPL 2022 dataset using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly. The objective is to uncover insights related to team performance, toss decisions, player achievements, and match outcomes through exploratory data analysis (EDA) and data visualization.
 
